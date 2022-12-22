@@ -1,0 +1,601 @@
+﻿2d Geometric Shape;PARALLELOGRAM, RECTANGULAR PRISM, RHOMBICOSIDODECAHEDRON
+A Board You Can Write On;WHITEBOARD
+A Character From Mario;PRINCESS PEACH
+A Day In The Week;WEDNESDAY
+A Farmyard Animal;DONKEY
+A Month With 31 Days;DECEMBER
+A Reason You'd Wake Up In The Middle Of The Night;LIFESTYLE CHOICES
+A Word That Rhymes With Horse;REMORSE
+Activity You Wear Gloves In;CONSTRUCTION
+Adventure Time Character;ANCIENT PSYCHIC TANDEM WAR ELEPHANT
+American Emergency Services;EMERGENCY MEDICAL SERVICE
+An Animal That Moves Very Slowly;ELEPHANT
+Andesine Feldspar, Corn Flower Blue Sapphire, Mount Saint Helens Emerald;ANDESINE FELDSPAR, CORN FLOWER BLUE SAPPHIRE
+Animal From Chinese New Year;ROOSTER
+Animal In The Ocean;GREAT WHITE SHARK
+Animal That Has A Horn;AFRICAN BUFFALO
+Animal That Has Horn;AFRICAN BUFFALO
+Animal That Starts With The Letter B;BACTRIAN CAMEL
+Animal Whose Legs Are Featured On Restaurants Menu;CHICKEN
+Animal With Horn;SPIRAL HORNED ANTELOPE
+Another Word For Garbage;RUBBISH
+Antivirus Program;SECUREANYWHERE INTERNET SECURITY
+Any Country;SAINT VINCENT AND THE GRENADINES
+Athletics Event;STEEPLECHASE
+Bad Job For Accident-prone;CONSTRUCTION WORKER
+Ball That’s Smaller Than A Baseball;PING PONG BALL
+Baseball Pitch;FOUR SEAM FASTBALL
+Bathroom Item;SHOWER CURTAIN
+Batman Character;DETECTIVE ETHAN, COMMISSIONER GORDON
+Best Place For Someone To Study;COFFEE SHOP
+Birds That Can't Fly;INACCESSIBLE ISLAND RAIL
+Boys Name That Starts With L;LANSTON
+Brand Of Toothpaste;DORAMAD RADIOACTIVE TOOTHPASTE
+Breakfast Food;FRENCH TOAST STICKS
+Building Seems To Be Cold;DOCTOR OFFICE
+Camping Item;EMERGENCY KIT
+Can You Give Something That Is Made Of Milk?;MILKSHAKE
+Can You Think Of One Real Thing That You Can Not See;GRAVITY
+Can You Think Of Something A Vampire Is Afraid Of?;SUNLIGHT
+Capital State Of Usa;WASHINGTON DC
+Car Brand;MERCEDES BENZ
+Car Color;BRIGHT YELLOW, METALLIC GASOLINE BLUE GREEN
+Card Game;MONOPOLY ELECTRONIC BANKING EDITION
+Cars Character;DINOCO TRANSPORT HELICOPTER, RICHARD CLAYTON KENSINGTON SPORTS UTILITY VEHICLE
+Casino Game;SLOT MACHINE
+Cat Breed;NORWEGIAN FOREST CAT
+Character In Friends;MONICA GELLER
+Character In The Amazing World Of Gumball;GUMBALL WATTERSON
+Christmas Song;WHAT WILL SANTA CLAUS SAY WHEN HE FINDS EVERYBODY SWINGIN
+Color Of Rainbow;ORANGE
+Color Of The Rainbow;MAGENTA
+Common House Color;BRIGHT YELLOW
+Countries That Speak French;LUXEMBOURG
+Countries With Stars On Flag;FEDERATED STATES OF MICRONESIA
+Country In Africa;DEMOCRATIC REPUBLICOF THE CONGO
+Country In Asia;UNITED ARAB EMIRATES
+Country In Europe;NORTH MACEDONIA
+Country In Europe;BOSNIA AND HERZEGOVINA, THE FEDERATED STATES OF MICRONESIA
+Country In North America;STVINCENTANDTHEGRENADINES
+Country In South America;ARGENTINA
+Country In South America;REPUBLIC OF TRINIDAD AND TOBAGO
+Country In The European Union;UNITED KINGDOM
+Country That Hosted Olympics;UNITED STATES OF AMERICA
+Country That Speaks Spanish;UNITED STATES OF AMERICA
+Day Of The Week;WEDNESDAY
+Dc Movie;BATMAN VS SUPERMAN DAWN OF JUSTICE
+Desserts;CHOCOLATE CHIP COOKIE
+Eat At Movie Theater;BERTIE BOTTS EVERY FLAVOUR BEANS
+Eat At The Movies;SOUR PATCH KIDS
+Emergency Service;MOUNTAIN RESCUE
+Emotion;DISAPPOINTED
+Example Of A Covid 19 Vaccine;JOHNSON JOHNSON
+Example Of A Martial Art;KICKBOXING
+Example Of A Popular Edible Meat;MOLLUSCS, GROUND BEEF
+Example Of A Social Media Platform;INSTAGRAM
+Example Of A Thing That Is Cold;REFRIGERATOR
+Example Of Continent;SOUTH AMERICA
+Example Of Household Pet;HAMSTER
+Example Of Kitchen Appliance;BACHELOR GRILLER
+Exotic House Pets;HEDGEHOGS
+Famous Classical Composer;PYOTR ILYICH TCHAIKOVSKY
+Famous Meme;STOP POSTING ABOUT BALLER, HELICOPTER HELICOPTER, NEVER GONNA GIVE YOU UP
+Famous Video Game Character;SONIC THE HEDGEHOG
+Find In A Pencil Case A;CORRECTION TAPE
+Fish;SIAMESE FIGHTING FISH, LARGEMOUTH BASS
+Food Many People Are Allergic To;PEANUT BUTTER
+Footwear;RUNNING SHOES
+Form Of Identification;SOCIAL SECURITY CARD
+Friendly Minecraft Mob;SKELETON HORSE
+Fruit;AMERICAN ELDERBERRY, BOB GORDON AMERICAN ELDERBERRY
+Game Console;NINTENDO SWITCH
+Game You See People Playing In The Park;HIDE AND SEEK
+Geometry Dash Level;GEOMETRICAL DOMINATOR, ELECTROMAN ADVENTURES
+Give A Dinosaur Name;MICROPACHYCEPHALOSAURUS
+Give A Major Religion;RASTAFARIANISM
+Give Another Word For Book;PAPERBACK
+Give Fast-food Restaurant;KENTUCKY FRIED CHICKEN
+Give Me A Word That Rhymes With Buckle;KNUCKLE
+Greek Gods Name;HEPHAESTUS
+Horror Movie;INVASION OF THE BODY SNATCHERS
+House In Hogwarts;HUFFLEPUFF
+How Do People Move From One Place To Another;TRANSPORTATION
+Ice Cream Flavor;CHOCOLATE CHIP COOKIE DOUGH ICE CREAM
+Ice Cream Flavour;MINT CHOCOLATE
+Important Meal Of The Day;BREAKFAST
+Item You Might Buy In A Souvenir Shop;KITCHEN ACCESSORIES
+Kid Needs Help, Who Might They Ask;GRANDPARENT
+Kids Spend Most Of Their Time In;PLAYING VIDEO GAMES
+Longest A Name;ALEXANDRIA
+Longest B Name;BARTHOLOMEW
+Longest L Name;LEONARDO
+Loud House Character;PHILLIPFLIPPHILLIPINI
+Main Character From Frozen;KRISTOFF
+Main Characters In Spongebob;SPONGEBOB SQUAREPANTS
+Main Colors;YELLOW ORANGE
+Mario Character;PRINCESS PEACH
+Mario Character;BABY PRINCESS ROSALINA
+Meat;GROUND BEEF
+Month In The Year;SEPTEMBER
+Website;WWW.PUZZLEGAMEMASTER.COM
+Movie Starring Captain America;CAPTAIN AMERICA THE WINTER SOLDIER
+Movie Starring Iron Man;CAPTAIN AMERICA CIVIL WAR
+Movie Streaming Platform;AMAZON PRIME
+Musical Genre;PROGRESSIVE ROCK
+Musical Instrument;ELECTRIC GUITAR
+Name A Airline;ATLANTIC SOUTHEAST AIRLINES
+Name A Animal;RUBY THROATED HUMMINGBIRD
+Name A Animal That Lives In Antarctica;EMPEROR PENGUIN
+Name A Anime;DORAEMON NOBITA AND THE NEW STEEL TROOPS
+Name A Billionaire;FRANCOISE BETTENCOURT MEYERS
+Name A Billionaire;FRANCOISE BETTENCOURT MEYERS 
+Name A Block In Minecraft;WAXED LIGHTLY WEATHERED CUT COPPER STAIRS 
+Name A Body Part;GLUTEUS MAXIMUS
+Name A Boy's Name That Starts With B;BARTHOLOMEW
+Name A Boy's Name That Starts With L;LEONARDO
+Name A Branch Of Us Military;COASTGUARDS
+Name A Brand Of Tv;PANASONIC
+Name A Breakfast Cereal;CORN FLAKES
+Name A Candy;SOUR PATCH KIDS
+Name A Car Brand;ACURA HONDA MOTOR COMPANY 
+Name A Car Color;METALLIC GASOLINE BLUEGREEN 
+Name A Cars Character;STRIPTHEKINGWEATHERS
+Name A Character From A Diary Of A Wimpy Kid;ROWELL JEFFREYSON
+Name A Character From Adventure Time;LUMPYSPACEPRINCESSA
+Name A Character From Cars;RICHARD CLAYTON KENSINGTON SPORTS UTILITY VEHICLE 
+Name A Character From Gumball;JULIUS OPPENHEIMER JR
+Name A Character From Mario;BABY PRINCESS ROSALINA
+Name A Character From My Singing Monsters;HIPPITY HOP
+Name A Character From Sonic The Hedgehog;KNUCKLES THE ECHIDNA 
+Name A Character From The Batman Comics;COMMISSIONER JAMES GORDON
+Name A Character That You Would See At Disneyland;SLEEPING BEAUTY
+Name A Character You Would See At Disneyland;SLEEPING BEAUTY
+Name A Charles Brown Character;LITTLE RED HAIRED GIRL
+Name A Christmas Song;IT'S BEGINNING TO LOOK LIKE CHRISTMAS
+Name A Coin;UNITED STATES DOLLAR
+Name A Color;UNIVERSITY OF PENNSYLVANIA RED
+Name A Color Of The Rainbow;MAGENTA 
+Name A Common Color;BRIGHT YELLOW
+Name A Common Superpower;TELEPORTATION
+Name A Condiment;DATU PUTI VINEGAR
+Name A Condiment;THOUSAND ISLAND DRESSING 
+Name A Consumable From Fortnite;OCEAN BOTTOMLESS CHUGJUG
+Name A Country;THE UNITED KINGDOM OF GREAT BRITAIN
+Name A Country / Oceania Country;THE FEDERATED STATES OF MICRONESIA
+Name A Country Involved In Ww1;UNITED ARAB EMIRATES
+Name A Country Involved In Wwii / (ww2);UNITED ARAB EMIRATES
+Name A Country With A Lot Of Ice;GREENLAND
+Name A Currency;NEW ZEALAND DOLLAR, UNITED ARAB EMIRATES DIRHAM
+Name A Day Of The Week;WEDNESDAY 
+Name A Despicable Me Character;SCARLET OVERKILL
+Name A Diary Of A Wimpy Kid Book;DIARYOFAWIMPYKID LONGHAUL
+Name A Dinosaur;MICROPACHYCEPHALOSAURUS
+Name A Disney Movie;THE CHRONICLES OF NARNIA THELIONTHEWITCHANDTHEWARDROBE
+Name A Disney Movie;ALEXANDER AND THE HORRIBLE NO GOOD VERY BAD DAY 
+Name A Disney Princess;VANELLOPE VON SCHWEETZ
+Name A Dog Breed;CAVALIER KING CHARLES SPANIEL
+Name A Emotion You Feel;UNDERESTIMATED
+Name A Encanto Character;ABUELA ALMA MADRIGAL
+Name A Ethnicity;AFRICAN AMERICAN
+Name A Family Guy Character;MARGUERITE PEWTERSCHMIDT
+Name A Farmyard Animal;HERDING DOG
+Name A Farmyard Animal;POTBELLY PIG 
+Name A Fast Food Restaurant;KENTUCKY FRIED CHICKEN
+Name A Fast Food Restaurant;POPEYES LOUISIANA KITCHEN 
+Name A Flightless Bird;AFRICAN OSTRICH, INACCESSIBLE ISLAND RAIL
+Name A Friend Of Mickey Mouse;MINNIE MOUSE
+Name A Friendly Mob;VILLAGER
+Name A Frozen Character;ANNA OF ARENDELLE
+Name A Game Console;SUPER NINTENDO ENTERTAINMENT SYSTEM
+Name A Game Console;SUPER NINTENDO ENTERTAINMENT SYSTEM 
+Name A Girls Name That Starts With A;ADDISON RAE
+Name A Girls Name That Starts With A;ALEXANDRIA 
+Name A Girls Name That Starts With M;MADISON BEER
+Name A Greek God;HARPOCRATES
+Name A Green Fruit;GOOSEBERRIES
+Name A Green Fruit;MEXICAN SOUR CUCUMBER 
+Name A Hairstyle;MEDIUM LENGTH
+Name A Hamburger Topping;APPLEWOOD SMOKED BACON 
+Name A Harry Potter Character;KINGSLEY SHACKLEBOLT
+Name A Harry Potter House;GRYFFINDOR
+Name A Harry Potter Movie;HARRY POTTER AND THE DEATHLY HALLOWS PART ONE
+Name A House You Never Want To Be In;HAUNTED HOUSE
+Name A Measurement;KILOMETER
+Name A Member Of Scooby Doo;NORVILLE ROGERS
+Name A Minecraft Block;CRACKED POLISHED BLACK STONE BRICKS
+Name A Minecraft Monster;BABY ZOMBIE VILLAGER
+Name A Month In The Year;SEPTEMBER
+Name A Month In The Year;SEPTEMBER 
+Name A Mountain;JOMOLHARI CHOMOLHARI
+Name A Mountain Range;GREAT DIVIDING MOUNTAIN RANGE
+Name A Mountain Range;SOUTHERN ROCKY MOUNTAINS
+Name A Movie Streaming Platform;DISNEYPLUS
+Name A Music Genre;ALTERNATIVE HIP HOP
+Name A Musical Instrument;ELECTRIC BASS GUITAR
+Name A Musical Instrument;ELECTRIC GUITAR 
+Name A Natural Disaster;VOLCANIC ERUPTION
+Name A Natural Disaster;VOLCANIC ERUPTION 
+Name A Nemo Character;PHILIP SHERMAN
+Name A Ninja Mutant Turtles Name;MICHELANGELO
+Name A Nursery Rhyme;LONDON BRIDGE IS FALLING DOWN
+Name A Nut;MARCONA ALMOND 
+Name A Organ;LARGE INTESTINE
+Name A Overwatch Character;JUNKER QUEEN
+Name A Periodic Table Element;RUTHERFORDIUM
+Name A Phineas And Ferb Character;DOCTOR HEINZ DOOFENSHMIRTZ
+Name A Phobia;HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA
+Name A Phone Brand;STRAIGHTTALK 
+Name A Piece Of Clothing;LONG SLEEVE SHIRT 
+Name A Pixar Movie;MONSTERS UNIVERSITY
+Name A Pizza Topping;ROASTED RED PEPPER
+Name A Pizza Topping;ROASTED GREEN PEPPER 
+Name A Place Where You Have To Be Quiet;DOCTORS OFFICE
+Name A Place Where You Have To Be Quiet;DEPARTMENT OF MOTOR VEHICLES 
+Name A Place Where You Have To Wait;EMERGENCY ROOM, UNEMPLOYMENT OFFICE
+Name A Place You Can Swim;PUBLIC SWIMMING POOL
+Name A Place You Can Swim;PUBLIC SWIMMING POOL 
+Name A Place You Have To Wait;DEPARTMENT OF MOTOR VEHICLES 
+Name A Planet In Our Solar System;NEPTUNE
+Name A Pokemon;FLETCHINDER
+Name A Popular Board Game;SETTLERS OF CATAN
+Name A Popular Board Game;MONOPOLY ELECTRONIC BANKING EDITION 
+Name A Popular Breakfast Food;BREAKFAST SANDWICH
+Name A Popular Holiday;SAINT PATRICK'S DAY
+Name A Popular Holiday;SAINT PATRICK'S DAY 
+Name A Popular Roblox Game;NATURAL DISASTER SURVIVAL
+Name A Popular Roblox Game;NATURAL DISASTER SURVIVAL
+Name A Popular Soda;MOUNTAIN DEW
+Name A Popular Soda;MONSTER ENERGY DRINK 
+Name A Popular Swimming Stroke;BREASTSTROKE
+Name A Popular Video Game;STAR WARS KNIGHT OF THE OLD REPUBLIC
+Name A Popular War;SIERRA LEONE CIVIL WAR
+Name A Popular Youtuber;KIDS CHANNEL INDIA HINDI RHYMES BABY SONGS 
+Name A Position In American Football;WIDE RECEIVER
+Name A Position In Soccer;ATTACKING MIDFIELDER
+Name A Potato Chip Flavor;OLD FASHIONED BARBECUE 
+Name A Programming Language;EUSI ROBOT PROGRAMMING LANGUAGE
+Name A Punctuation Symbol;EXCLAMATION MARK
+Name A Punctuation Symbol;INVERTED EXCLAMATION MARK
+Name A Pvz Plant;GIANT SUNFLOWER
+Name A Reason A Person Might Be Running;GET SOMEWHERE
+Name A Reason You Might Be Late For Work;TRAFFIC
+Name A Religion;BUSHONGO MYTHOLOGY
+Name A Room In A House;MASTER BEDROOM 
+Name A Santa's Reindeer;RUDOLPH
+Name A School Subject;DIFFERENTIAL EQUATIONS
+Name A School Subject;DIFFERENTIAL EQUATIONS
+Name A Search Engine;GOOGLE SCHOLAR SEARCH
+Name A Season;AUTUMN
+Name A Shape;RECTANGULAR PRISM
+Name A Shape;RHOMBICOSIDODECAHEDRON 
+Name A Shellfish That Someone Might Eat;CRAYFISH
+Name A Shoe Brand;BLOWFISH MALIBU
+Name A Shrek Character;FATHER BUTTERPANTS
+Name A Simpson Character;SUPERINTENDENT CHALMERS
+Name A Skittle Color;BRIGHT YELLOW 
+Name A Skittles/m&m Color;BRIGHT YELLOW
+Name A Social Media Platform;FACEBOOK
+Name A Soda Drink;MOUNTAIN DEW
+Name A Sonic The Hedgehog Character;KNUCKLES THE ECHIDNA
+Name A Source Of Protein;POULTRY
+Name A Spongebob Character;SPONGEBOB SQUAREPANTS
+Name A Sport;AMERICAN FOOTBALL
+Name A Sport;AMERICAN FOOTBALL 
+Name A Sport Beginning With F;FIVE PIN BOWLING
+Name A Sport That Uses A Ball;AMERICAN FOOTBALL 
+Name A Sport That Uses A Board;MOUNTAINBOARDING
+Name A Star Wars Character;LEIA AMIDALA SKYWALKER ORGANA
+Name A Star Wars Movie;THE EMPIRE STRIKES BACK
+Name A State Of Matter;BOSE EINSTEIN CONDENSATE
+Name A Summer Sport;ONE HUNDRED METER SPRINT
+Name A Superhero;THE INCREDIBLE HULK
+Name A Top 100 Christmas Movie;THE NIGHTMARE BEFORE CHRISTMAS, NATIONAL LAMPOON’S CHRISTMAS VACATION
+Name A Toy Story Character;BARREL OF MONKEYS
+Name A Type Of Bear;NORTH AMERICAN BLACK BEAR
+Name A Type Of Bear;NORTH AMERICAN BLACK BEAR 
+Name A Type Of Cake;STRAWBERRY SHORTCAKE
+Name A Type Of Cake;CHOCOLATE ICE CREAM CAKE
+Name A Type Of Candy;BERTIE BOTTS EVERY FLAVOUR BEANS 
+Name A Type Of Flower;ACAMPTOPAPPUS
+Name A Type Of Juice;WATERMELON JUICE
+Name A Type Of Light;FLUORESCENT
+Name A Type Of Shark;JAPANESE BULLHEAD SHARK
+Name A Type Of Snake;RETICULATED PYTHON, BLACK RAT SNAKE
+Name A Type Of Transportation;PUBLIC TRANSPORTATION
+Name A Type Of Tree;MEDIUM DENSITY FIBREBOARD
+Name A Type Of Wood;MEDIUM DENSITY FIBREBOARD
+Name A Us President;FRANKLIN DELANO ROOSEVELT
+Name A Us State;MASSACHUSETTS
+Name A Vegetable;SWEET POTATO
+Name A Vegetable;BRUSSELS SPROUT 
+Name A Winter Sport;RECREATIONAL SPORTS
+Name A Winter Winter Sport;SHORT TRACK SPEED SKATING
+Name A Word That Has Key In It;KEYBOARD
+Name An Activity For Which People Wear Boots;HORSEBACK RIDING
+Name An Activity That Is Not A Sport;MOUNTAIN CLIMBING
+Name An Activity That Is Played Indoors;FIGURE SKATING
+Name An American Emergency Service;EMERGENCY MEDICAL SERVICES
+Name An Andy's Toy;BARREL OF MONKEYS
+Name An Animal;GREAT WHITE SHARK
+Name An Animal;RUBY THROATED HUMMINGBIRD 
+Name An Animal That Could Be A Pet;BEARDED DRAGON
+Name An Animal That Doesn't Have A Leg To Stand On;CAECILIANS
+Name An Animal That You May Found On The Ocean;GREAT WHITE SHARK
+Name An Article Of Clothing You Can't Wash In Washing Machine;SWEATER
+Name An Ice Cream Flavor;MINT CHOCOLATE CHIP COOKIE DOUGH 
+Name An Item You Would Put On A Christmas Tree;CHRISTMAS LIGHTS 
+Name An Object People Listen To Music On;VIDEO RECORDER 
+Name An Object You Use To Eat Food;BUTTERKNIFE
+Name Halloween Costumes That Are Professions;POLICE OFFICER
+Name Of Of The Powerpuff Girls;BUTTERCUP
+Name Of Santa’s Reindeer;RUDOLPH
+Name Of Seven Dwarfs In Snow White;BASHFUL
+Name One Of The Deadly Sins;GLUTTONY
+Name One Of The Oceans In The World;SOUTHERN OCEAN
+Name One Of The Seven Dwarfs From Snow White;BASHFUL
+Name One Of The Seven Wonder In The World;THE MAUSOLEUM AT HALICARNASSUS
+Name Some Types Of Coffee Drink;CAPPUCCINO
+Name Something A Dog Would Do;ROLLAROUND
+Name Something Associated With Witches;HALLOWEEN
+Name Something Hot;FIREPLACE
+Name Something In A Fruit Salad;STRAWBERRIES
+Name Something In A Garage;ELECTRIC VEHICLE CHARGER 
+Name Something Kids Line Up For At School;FIRE DRILL
+Name Something Little Kids Have Nightmares About;WHITE LADY
+Name Something Or Someone That Has Fangs;HIPPOPOTAMUS
+Name Something People Do To Their Armpits;DEODORANT
+Name Something People Do While Riding A Rollercoaster;CLOSE THEIR EYES
+Name Something People Like To Do While Listening To Music;EXERCISE
+Name Something Sharp;SAMURAI SWORD
+Name Something Sharp;KITCHEN KNIFE 
+Name Something That Is Cold;CHOCOLATE ICE CREAM 
+Name Something That Lives In A Shell;HERMIT CRAB, LEATHERBACK SEA TURTLE
+Name Something That Makes You Itch;MOSQUITO BITE
+Name Something That Provides You Light When It’s Dark;FLASHLIGHT
+Name Something That Runs;REFRIGERATOR
+Name Something That You Might Need To Get Fixed;AIR CONDITIONER
+Name Something You Can Climb;JOMOLHARI CHOMOLHARI 
+Name Something You Can Draw With;MECHANICAL PENCIL
+Name Something You Can Hang;CHRISTMAS ORNAMENT
+Name Something You Can Listen To Music On;WIRELESS RADIO
+Name Something You Can Put On A Christmas Tree;CHRISTMAS LIGHTS
+Name Something You Keep In A Wallet;DRIVERS LICENSE 
+Name Something You Might Break;CELL PHONE
+Name Something You Sleep In;SLEEPING BAG
+Name Something You Use To Eat Food;BUTTERKNIFE
+Name Something You Use To Tell Time;GRANDFATHER CLOCK 
+Name Something You Wear On Your Feet;RUNNING SHOES 
+Name Something You Would Bring On A Camping Trip;GRAHAM CRACKER 
+Name Something You Would Bring To The Beach;TANNING LOTION 
+Name Something You Would Do In The Snow;GO SNOWBOARDING 
+Name Something You Would Find In A Backpack;GRAPHING CALCULATOR 
+Name Something You Would Find In A Bedroom;FLAT SCREEN TELEVISION
+Name Something You Would Find In A Bedroom;FLAT SCREEN TELEVISION 
+Name Something You Would Find In A Classroom;GRAPHING CALCULATOR
+Name Something You Would Find In A Classroom;GRAPHING CALCULATOR
+Name Something You Would Find In A Living Room;FLAT SCREEN TELEVISION 
+Name Something You Would Find In A Pencil Case;GRAPHING CALCULATOR
+Name Something You Would Find In A Pencil Case:;GRAPHING CALCULATOR 
+Name Something You Would Keep In The Freezer;ICE CREAM SANDWICHES 
+Name Something You Would See At A Playground;DRINKING FOUNTAIN 
+Name Something You Would See In The Ocean;UNDERWATER VOLCANOES
+Name Something You Would See In The Ocean;CONTINENTAL FAULT LINES 
+Name Something You Would See On The Road;EMERGENCY RESPONSE VEHICLES 
+Name Something You Would See Outer Space;INTERNATIONAL SPACE STATION
+Name Something You Would Sit On;FOLDABLE CHAIRS
+Name Something You Would Sit On;FOLDABLE CHAIRS 
+Name Something You'd Do In Front Of A Mirror;CHECK OUTFIT
+Name Something You'd Find In A Cave;STALACTITES
+Name Things You Bring To A Sleepover;EXTRA CLOTHES
+Name Things You Spend Lottery Winning On;VACATION
+Natural Disaster;TROPICAL STORM
+Object People Listen Music To;VIDEO RECORDER
+Object That You Fill With Air;HOT AIR BALLOON
+Object You Use To Listen To Music;RECORD PLAYER
+Objects In The Bathroom;TOILET PAPER
+Objects That Start With Letter J;JACKSTONES
+Occasion That You Celebrate With A Party;THANKSGIVING
+Ocean Name;NORTH ATLANTIC OCEAN
+Oceania Country;FEDERATED STATES OF MICRONESIA
+On Of The Deadly Sins;GLUTTONY
+One Of The 10 Longest Rivers In The World;MISSISSIPPI MISSOURI
+One Of The World’s Largest Countries;UNITED STATES OF AMERICA
+One Thing That Is Made From Coconuts;COCONUT WATER
+Outdoor Activity;PHOTOGRAPHY
+Outdoor Activity That Is Not A Sport;MOUNTAIN CLIMBING
+Part Of The Body;LARGE INTESTINE
+Parts Of The Head;FOREHEAD
+People Buy To Show They Are Successful;SMARTPHONE
+People Who Have Walked On Moon;HARRISON SCHMITT
+Phone Brand;BLACKBERRY
+Piece Of Clothing;LONG SLEEVE SHIRT
+Pixar Movie;MONSTER UNIVERSITY
+Pizza Topping;PEPPERONI
+Place Do We Find An Elevator;OFFICE BUILDING
+Place To Be Quiet;MOVIE THEATER
+Place Where You Need To Wait In Line;AMUSEMENT PARK
+Place You Are Told To Keep Quiet;MOVIE THEATER
+Planet;JUPITER
+Planet In Our System;NEPTUNE
+Plant From Plants Vs Zombies;REVERSE REPEATER
+Pokemon;ZAMAZENTA HERO OF MANY BATTLES
+Popular Car Color;SILVER
+Popular Holiday;SAINT PATRICK'S DAY
+Popular Roblox Game;BUILD A BOAT FOR TREASURE
+Popular Video Game;STAR WARS KNIGHTS OF THE OLD REPUBLIC II: THE SITH LORDS
+Position In American Football;DEFENSIVE TACKLE
+Potato Chip Flavor;SOUR CREAM AND ONION
+Precious Gem;STRAWBERRY QUARTZ, MOUNT SAINT HELENS EMERALD
+Princess Of Disney;SLEEPING BEAUTY
+Profession That Starts With T;TRAVEL COUNSELOR
+Programming Language;EUSLISP ROBOT PROGRAMMING LANGUAGE
+Put In The Freezer;CHOCOLATE ICE CREAM
+Rainbow Color;PURPLE
+Roblox Game Genre;TOWN AND CITY
+Room In A House;MASTER BEDROOM
+Salad;ITALIAN DRESSING
+School Subject;HOME AND CONSUMER STUDIES
+See On Road;EMERGENCY RESPONSE VEHICLES
+Shake Before Using;SALAD DRESSING
+Shape;RHOMBICOSIDODECAHEDRON
+Shape;RECTANGULAR PRISM
+Soccer Position;ATTACKING MIDFIELDER
+Soda Drink;MONSTER ENERGY DRINK, DIET DOCTOR PEPPER
+Someone You Might Ask For Directions;TRAFFIC ENFORCER
+Something At A Wedding;VIDEOGRAPHERS
+Something Eaten On Thanksgiving;SWEET POTATO CASSEROLE
+Something From The Disney Movie;SNOW WHITE AND THE SEVEN DWARVES
+Something Guests Do At A Wedding Reception;TAKE PICTURES
+Something In A Desert;JACKRABBITS
+Something In Hamburger;MAYONNAISE
+Something In Your Fridge/dessert;ICE CREAM SANDWICH
+Something In Your Mouth;WISDOM TOOTH
+Something Living Underground;GROUNDHOG
+Something On The Road;TRAFFIC CONES
+Something People Decorate;CHRISTMAS PARTY
+Something People Do While Watching Fireworks;TAKE PICTURES
+Something Round;WATERMELON
+Something Sharp;POCKET KNIFE
+Something Shouldn't Do While Eating;DRINKING
+Something That Emits Light;LIGHT EMITTING DIODE
+Something That Goes Up;HOT AIR BALLOON
+Something That Happens Once Every Few Years;PRESIDENTIAL ELECTION
+Something That Has Pair;CHOPSTICK
+Something That Has Roots;MEDIUM DENSITY FIBREBOARD
+Something That Lives In A Shell;SNAPPING TURTLE, LEATHERBACK SEA TURTLE
+Something That Sharp;RAZORBLADE
+Something That Starts With Chow;CHOWHOUND
+Something That Takes People Into The Air;HOT AIR BALLOON
+Something That Younger Brother Wants To Do;PLAY SPORTS
+Something To Draw;COLORING PENCILS
+Something When U Feel Happy;WHISTLE
+Something With Roots;VEGETABLES
+Something With Webbed Feet;ALBATROSSES
+Something You Can Climb;CLIMBING FRAMES
+Something You Can Find In A Cave;CAVE ANIMALS
+Something You Can Sit On;ROCKING CHAIR
+Something You Charge Regularly;NINTENDO SWITCH
+Something You Don't Leave Home Without;SMARTPHONE
+Something You Eat With Crackers;PEANUT BUTTER
+Something You Feel;DISAPPOINTED
+Something You Find In A Toolbox;PHILLIPS SCREWDRIVER
+Something You Find Near The Bath;RUBBER DUCKY
+Something You Have To Charge Regularly;ELECTRIC BIKE
+Something You Keep In The Car;DRIVERS LICENSE
+Something You May See Out On The Ocean;COCONUT TREE
+Something You Might Drink;WATERMELON JUICE
+Something You Put In A Bath;RUBBER DUCK
+Something You Recycle;PLASTIC PACKAGING
+Something You Use To Eat With;COCKTAIL STICK
+Something You Use To Tell Time;GRANDFATHER CLOCK
+Something You Wear On Your Feet;HIGH HEELS
+Something You Would Bring To A Camping Trip;GRAHAM CRACKER
+Something You Would Bring To The Beach;TANNING LOTION
+Something You Would Check Time;GRANDFATHER CLOCK
+Something You Would Do In The Snow;GO SNOWBOARDING
+Something You Would Find In A Backpack;GRAPHING CALCULATOR
+Something You Would Find In A Bathroom;HAIR STRAIGHTENER
+Something You Would Find In A Bedroom;PHONE CHARGER
+Something You Would Find In A Classroom;PENCIL SHARPENER
+Something You Would Find In A Desert;RATTLESNAKE
+Something You Would Find In A Kitchen;CHOPPING BOARD
+Something You Would Find In A Living Room;FLAT SCREEN TELEVISION
+Something You Would See At A Playground;MERRY GO ROUND
+Something You Would See In The Ocean;UNDERWATER VOLCANOES, COASTAL INFRASTRUCTURE
+Something You Would See In The Street;TRAFFIC LIGHTS
+Something You Would Wear On Your Feet;RUNNING SHOES
+Sound You May Heard In The Farmyard;LEAF BLOWER
+Specific Card Game;TEXASHOLDEM
+Sport;HORSEBACK RIDING
+Sport With Goalposts;GAELIC FOOTBALL
+Sports;FIELD HOCKEY
+Sports That Are Usually Played By Teams;AMERICAN FOOTBALL
+Standard Unit Of Measurement;MILLIMETER OF MERCURY
+Standard Unit Of Measurement;MILLIMETER OF MERCURY
+Star Constellation;SAGITTARIUS
+Star Wars;ANAKIN SKYWALKER
+Steven Universe Character;DOCTOR PRIYANKA MAHESWARAN
+Super Hero;CAPTAIN AMERICA
+Super Mario;PRINCESS ROSALINA
+Superhero;CAPTAIN AMERICA
+Techniques Used For Swimming;BREASTSTROKE
+Tell Me Something Many People Do Just Once A Week;CLEAN THE HOUSE
+Term That Starts With Fairy;FAIRY GODMOTHER
+Things People Lie About On Resumes;QUALIFICATIONS
+Things That Women Wear That Men Do Not;EXTENSIONS
+Things That You See Outside;MOUNTAINS
+Things You See In The Classroom;WHITEBOARD
+Things You'd Find In A Kids Backpack;PENCIL CASE
+Things You'd Find With A Doctor;PRESCRIPTION PAD
+Things You'd Usually Store In Your Wallet;DRIVER’S LICENSE
+Things Your Mom Tell You To Do Before Dinner;CALL YOUR SIBLINGS
+Top Roblox Game;MURDER MYSTERY
+Transportation;UNIDENTIFIED FLYING OBJECT
+Type Of Bear;NORTH AMERICAN BLACK
+Type Of Cheese;PECORINO ROMANO
+Type Of Clock;ELECTRONIC WORD CLOCK
+Type Of Fuel;ADRENALINE
+Type Of Headache;MIGRAINES
+Type Of Insurance;BLACKJACK
+Type Of Light;COMPACT FLUORESCENT LAMPS, LIGHT EMITTING DIODES
+Type Of Metal;STAINLESS STEEL
+Type Of Pollution;WATER POLLUTION
+Type Of Seeds;SUNFLOWER
+Type Of Snake;RATTLESNAKE
+Type Of Transport;TELEPORTATION
+Type Of Wood;BRAZILIAN MAHOGANY
+Types Of Chemical Reaction;DECOMPOSITION
+Types Of Communication;VISUAL COMMUNICATION
+U.s President;GEORGE WASHINGTON
+U.s State Beginning With A;ARKANSAS
+Universal Coordinated Time, Puerto Rico And Us Virgin Islands Time;UNIVERSAL COORDINATED TIME
+Us President;BARACK HUSSEIN OBAMA THE SECOND
+Usually A Pet;GUINEA PIG
+Vegetable;BRUSSEL SPROUTS
+Video Game;ANIMAL CROSSING
+Video Game Genre;FIRST PERSON SHOOTER
+Water Sport;STAND UP PADDLEBOARDING
+Way Of Sending Messages;SOCIAL MEDIA
+What Are Some Holidays Where You Can Dress Up;CHRISTMAS
+What Are Some Sports That Involve Water?;SWIMMING
+What Are The Materials Used To Build A House Except Woods?;CONCRETE
+What Are The Places Where You Are Not Allowed To Touch Anything;ART GALLERY
+What Are The Places You Can Swim;SWIMMING POOL
+What Are The Sport That Uses A Bat Or Racket;RACQUETBALL
+What Are The Things That Women Do To Their Hair?;STRAIGHTEN
+What Are The Types Of Nuts;ALMONDS NUTS
+What Are The Word That Rhymes With Election?;RESURRECTION
+What Are Things Children Believe In That Don't Exist?;EASTER BUNNY
+What Are Things That Have Wheels;ROLLER SKATES
+What Are Things You Can Develop?;RELATIONSHIP
+What Can U Find In Outer Space;MILKY WAY GALAXY
+What Can You Find In A Cave;STALAGMITE
+What Can You Find In A Cave;STALAGMITE
+What Can You Find On The Beach?;CUTTLEFISH BONES
+What Desserts Do Kids Like?;CHOCOLATE CAKE
+What Do People Usually Lose Or Misplace?;PHONE CHARGER
+What Do People Usually Take With Them To The Beach?;BEACH BLANKET
+What Do You Find In The North Pole;SANTA CLAUS
+What Do You Miss About School;CLASSMATES
+What Does A Dog Do;PLAY FETCH
+What Does A Wrestler Not Wear During A Match?;GLASSES
+What Is Another Word For Woman;FEMALE
+What Is One Thing Your Parents Tell You Not To Waste?;ELECTRICITY
+What Is Something People Do In Sleep;SLEEPWALK
+What Is The Object That Tells Time;WRISTWATCH
+What Melts When It Gets Hot?;POPSICLES
+What Might You Put In Your Coffee?;NOTHING
+What Places Do Usually Need A Tour Guide?;HISTORICAL SITE
+What Would Be In A Car/wallet;DRIVERS LICENSE
+What Would You Find In A Haunted House?;APPLIANCES
+When Do Kids Close Their Eyes;HORROR MOVIE
+When You Get Home From School;PLAY VIDEO GAMES
+Which Creature Lays Eggs;AMPHIBIANS
+Which Person You Might Go For Advice?;PSYCHIATRIST
+Wizard You Know;HARRY POTTER
+Word That Rhymes With Horse;REINFORCE
+Words That Rhyme With Ground;ULTRASOUND
+You Bring On A Camping Trip;EMERGENCY KIT
+You Keep In The Car;DRIVERS LICENSE
+Youtuber Name;DAILY DOSE OF INTERNET, THE DAILY SHOW WITH TREVOR NOAH
+Name another word for good;SATIDFACTORY
